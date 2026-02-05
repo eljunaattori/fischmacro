@@ -1,4 +1,4 @@
-Setup (uncompiled)
+Setup
 
 1) Install Python 3.x (64-bit).
 2) Open a terminal in this folder.
@@ -10,3 +10,4 @@ Setup (uncompiled)
 Notes:
 - Keep the configs/ folder alongside macro.py.
 - You may need to run the terminal as Administrator for input control.
+
