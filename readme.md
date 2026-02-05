@@ -2,9 +2,7 @@
 
 Fisch Macro (name WIP) is a fully external macro written in python. I initially made this for myself, but thought I would share it.
 
-my discord:
-
-<iframe src="https://discord.com/widget?id=1468808374601650220&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+my discord: https://discord.gg/DaKMTb6UpM
 
 ---- Before running the script ----
 
@@ -26,5 +24,6 @@ Advanced tab
 Support for rods with custom UI where the control bar has a color gradient haven't been fully implemented yet.
 
 ---- END ----
+
 
 
