@@ -5,3 +5,4 @@ pydirectinput
 pygetwindow
 pynput
 Pillow
+pywin32
